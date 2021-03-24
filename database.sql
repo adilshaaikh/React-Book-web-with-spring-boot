@@ -1,0 +1,1 @@
+course_tblSELECT * FROM avanza.course_tbl;
